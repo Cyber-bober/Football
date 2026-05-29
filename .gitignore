@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+
+# Next.js build
+.next/
+
+# environment
+.env
+.env.local
+
+# Prisma
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/.next
+node_modules
